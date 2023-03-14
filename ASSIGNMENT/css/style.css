@@ -1,0 +1,141 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.pop{
+    height: 450vh;
+    background-color: black;
+}
+
+.life{
+    height: 16%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),
+     rgba(0, 0, 0, 0.7)) ,url(/images/netflix.jpg);
+   
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.3rem 7rem;
+}
+
+img{
+    width: 11rem;
+    margin-left: 12rem;
+}
+
+#button{
+    background-color: red;
+    border: none;
+    margin-right: 15rem;
+    color: azure;
+    border-radius: 0.2rem;
+    padding: 0.4rem 0.9rem;
+    font-size: 0.9rem;
+    
+}
+
+
+section{
+    text-align: center;
+    color: azure;
+    font-size: 2rem;
+    padding: 12rem;
+}
+
+p{
+    font-size: 1.3rem;
+    margin-top: 1rem;
+}
+
+#para{
+    font-size: 1.3rem;
+    margin-top: 1.3rem;
+}
+
+input{
+    padding: 1.2rem 8rem;
+    background-color: inherit;
+    border-radius: 5px;
+}
+
+#b1{
+    padding: 1rem 2rem;
+    background-color: red;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 2rem;
+    border-radius: 5px;
+    border: none;
+    
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem;
+}
+.line{
+    height: 0.5rem;
+    width: 100%;
+    background-color: gray;
+}
+
+.second {
+    height: 14%;
+    color: azure;
+    font
+}
+
+.line2 {
+    height: 0.5rem;
+    width: 100%;
+    background-color: gray;
+}
+
+.third {
+    height: 14%;
+}
+
+.line3 {
+    height: 0.5rem;
+    width: 100%;
+    background-color: gray;
+}
+
+.fourth {
+    height: 10%;
+}
+
+.line4 {
+    height: 0.5rem;
+    width: 100%;
+    background-color: gray;
+}
+
+.fifth {
+    height: 12%;
+}
+
+.line5 {
+    height: 0.5rem;
+    width: 100%;
+    background-color: gray;
+}
+
+.sixth {
+    height: 22%;
+}
+
+.line6 {
+    height: 0.5rem;
+    width: 100%;
+    background-color: gray;
+}
